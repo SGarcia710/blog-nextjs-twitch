@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@blog/components/*": ["./components/*"],
+      "@blog/commons/*": ["./commons/*"],
+      "@blog/*": ["./*"]
+    }
+  }
+}
